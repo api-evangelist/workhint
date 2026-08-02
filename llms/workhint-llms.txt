@@ -1,0 +1,25 @@
+# Workhint
+
+> Workhint is a work orchestration platform that uses AI to configure workflows, roles, and operations from modular components, helping teams manage flexible, on-demand workforces — sourcing, onboarding, tasks, shifts, field visits, invoicing, global payments, payouts, contracts, and 1099 compliance. Backed by 500 Global and Softeq. API access and custom integrations are offered on the Enterprise plan; no public developer documentation is published.
+
+## Website
+
+- [Workhint](https://workhint.com): Company homepage and product overview
+- [Pricing](https://workhint.com/pricing): Starter, Growth, and Enterprise plans (API access is Enterprise-only)
+- [About](https://workhint.com/about): Company mission and platform overview
+- [Blog](https://blog.workhint.com): Company blog
+- [Login](https://workhint.com/login): Application sign-in
+- [Terms of Service](https://workhint.com/terms)
+- [Privacy Policy](https://workhint.com/privacy)
+
+## Code
+
+- [GitHub Organization](https://github.com/Workhint): Official org (no public repositories as of 2026-07-21)
+
+## APIs
+
+- No public API, developer portal, or API reference is published. API access and custom integrations are listed as Enterprise-plan features on the pricing page.
+
+## Optional
+
+- [API Evangelist profile](https://raw.githubusercontent.com/api-evangelist/workhint/refs/heads/main/apis.yml): APIs.json index for this provider

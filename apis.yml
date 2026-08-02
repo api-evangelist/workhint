@@ -1,7 +1,25 @@
 aid: workhint
 name: Workhint
-description: Workhint is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Workhint is a work orchestration platform that uses AI to configure workflows,
+  roles, and operations from modular components, helping teams manage flexible and
+  on-demand workforces. The platform spans sourcing and onboarding, a workflow engine,
+  tasks and projects, shifts and field visits, delivery management, auto-invoicing,
+  global payments and payout workflows, contract management, and 1099 compliance.
+  Backed by 500 Global and Softeq. API access and custom integrations are offered
+  on the Enterprise plan, but no public developer portal or API documentation is
+  published.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/245715413?v=4
 url: https://raw.githubusercontent.com/api-evangelist/workhint/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Workforce Management
+- Work Orchestration
+- Staffing
+- Payments
+- Contract Management
+- Compliance
+- Artificial Intelligence
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +49,24 @@ maintainers:
 common:
 - type: Website
   url: https://workhint.com
+- type: Pricing
+  url: https://workhint.com/pricing
+- type: Login
+  url: https://workhint.com/login
+- type: TermsOfService
+  url: https://workhint.com/terms
+- type: PrivacyPolicy
+  url: https://workhint.com/privacy
+- type: Blog
+  url: https://blog.workhint.com
+- type: GitHubOrganization
+  url: https://github.com/Workhint
+- type: LLMsTxt
+  url: llms/workhint-llms.txt
+- type: DomainSecurity
+  url: security/workhint-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

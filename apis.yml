@@ -8,6 +8,17 @@ description: Workhint is a work orchestration platform that uses AI to configure
   Backed by 500 Global and Softeq. API access and custom integrations are offered
   on the Enterprise plan, but no public developer portal or API documentation is
   published.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

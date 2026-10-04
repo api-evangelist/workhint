@@ -47,7 +47,6 @@ tags:
 - Work Orchestration
 - Staffing
 - Payments
-- Contract Management
 - Compliance
 - Artificial Intelligence
 - Software-as-a-Service
@@ -57,7 +56,6 @@ tags_raw:
 - Work Orchestration
 - Staffing
 - Payments
-- Contract Management
 - Compliance
 - Artificial Intelligence
 - SaaS
@@ -91,3 +89,5 @@ x-enrichment:
   status: minimal
   artifacts_added: 3
   pass: local-v1
+x-tags-removed:
+- Contract Management

@@ -1,0 +1,40 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://workhint.com/pricing
+sources:
+- https://workhint.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Prices billed annually; 'Save 20% with annual billing'. API access only in Enterprise (Custom).
+plan_count: 3
+currency: USD
+plans:
+- name: Starter
+  price_text: $99 /mo
+  price: 99
+  currency: USD
+  period: month
+  unit: Active Workers
+  included_quota: Up to 10 Active Workers
+- name: Growth
+  price_text: $240 /mo
+  price: 240
+  currency: USD
+  period: month
+  unit: Active Workers
+  included_quota: Up to 25 Active Workers
+- name: Enterprise
+  price_text: Custom
+  period: none
+  unit: Active Workers
+  included_quota: 25+ Active Workers
